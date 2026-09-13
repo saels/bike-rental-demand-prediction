@@ -20,4 +20,4 @@ A production system would benefit from station-level features, recent demand his
 
 ## 💻 Explore the Notebook
 
-The [notebook](https://github.com/saels/blue-bikes-rental-prediction/blob/194026e0a6660e463de5f2d500a9c095a2a80989/Bike_rental_demand_prediction.ipynb) contains the complete feature-selection, linear-regression, probability-estimation, tree-pruning, and model-comparison workflow. Review the code for the modeling details and for a closer look at how forecast accuracy and interpretability are balanced.
+The [notebook](https://github.com/saels/bike-rental-demand-prediction/blob/9f2d391277ab15194b467b5c1ffafe48be7cd8f1/Bike_rental_demand_prediction.ipynb) contains the complete feature-selection, linear-regression, probability-estimation, tree-pruning, and model-comparison workflow. Review the code for the modeling details and for a closer look at how forecast accuracy and interpretability are balanced.
